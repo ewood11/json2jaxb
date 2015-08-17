@@ -1,0 +1,5 @@
+{
+     "route_id":100,
+     "route_name":"routeA",
+     "route_stations":["SJ_south_1","SJ_south_2","SJ_North_1","SJC_TA","SJC_TB"]
+}

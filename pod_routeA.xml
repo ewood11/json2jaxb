@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<podRoute>
+    <route_id>100</route_id>
+    <route_name>routeA</route_name>
+    <route_stations>SJ_south_1</route_stations>
+    <route_stations>SJ_south_2</route_stations>
+    <route_stations>SJ_North_1</route_stations>
+    <route_stations>SJC_TA</route_stations>
+    <route_stations>SJC_TB</route_stations>
+</podRoute>
